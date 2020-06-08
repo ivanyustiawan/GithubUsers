@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+
+    <string name="text_hint_search_bar">Search Github Users</string>
+    <string name="text_empty_result">User not found</string>
+    <string name="text_error">Error</string>
+</resources>
